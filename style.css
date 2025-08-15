@@ -7,10 +7,15 @@ body {
     line-height: 1.6;
 }
 
+header {
+    margin-bottom: 20px;
+}
 
 p {
     margin: 0;
 }
+
+
 
 .job {
     padding-bottom: 20px;
