@@ -1,0 +1,5 @@
+/* Set default font to Courier New for the entire page */
+body {
+    font-family: 'Courier New', Courier, monospace;
+    margin: 0;
+}
